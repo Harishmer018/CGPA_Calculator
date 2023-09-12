@@ -1,4 +1,4 @@
-class CGPACalculator {
+class CGPA {
     public static void main(String[] args) {
     double English, Hindi, Maths, Science, SocialStudy, CGPA, CGPAper ;  
     English = 9.1;  
